@@ -1,0 +1,1 @@
+SUCCESS: Sent termination signal to the process "Celeris.exe" with PID 5840.
